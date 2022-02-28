@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain English to the Parliament and army, and to the rest of the people. To convince the obstinate. Undeceive the simple. Vindicate the innocent. Settle the wavering. / By John Redingstone. January 12. 1648. ; Imprimatur Gilbert Mabbot.</title>
+            <author>Redingstone, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92316</idno>
+            <idno type="STC">Wing R664</idno>
+            <idno type="STC">Thomason E538_4</idno>
+            <idno type="STC">ESTC R21717</idno>
+            <idno type="EEBO-CITATION">99871485</idno>
+            <idno type="PROQUEST">99871485</idno>
+            <idno type="VID">164870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164870)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain English to the Parliament and army, and to the rest of the people. To convince the obstinate. Undeceive the simple. Vindicate the innocent. Settle the wavering. / By John Redingstone. January 12. 1648. ; Imprimatur Gilbert Mabbot.</title>
+                  <author>Redingstone, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hils, and are to be sold over against Thomases Hospitall in Southwark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The word 'to', folowing 'people' in the title page, is connected to the words 'convince .. wavering.' with a left bracket.</note>
+                  <note>Annotation on Thomason copy: "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164870:1" rendition="simple:additions"/>
+            <p>PLAIN ENGLISH TO THE <hi>PARLIAMENT</hi> and <hi>ARMY,</hi> and to the reſt of the PEOPLE.</p>
+            <p>
+               <hi>To</hi>
+               <list>
+                  <item>
+                     <hi>Convince the obſtinate.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ndeceive the ſimple.</hi>
+                  </item>
+                  <item>
+                     <hi>Vindicate the innocent.</hi>
+                  </item>
+                  <item>
+                     <hi>Settle the wavering.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By <hi>John Redingſtone.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 25.11.</hi>
+               </bibl>
+               <p>A word fitly ſpoken, is like apples of gold, in pictures of ſilver.</p>
+            </q>
+            <p>January 12. 1648. <hi>Imprimatur</hi> Gilbert Mabbot.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and are to be ſold over againſt <hi>Thomaſes</hi> Hoſpitall in <hi>Southwark,</hi> M.DC.XLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164870:2"/>
+            <pb n="1" facs="tcp:164870:2"/>
+            <head>Plain Engliſh to the PARLIAMENT AND ARMY, And to the reſt of the PEOPLE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is evident that the higher powers, Rulers, Kings,<note place="margin">
+                  <hi>Rev.</hi> 13.</note> 
+               <hi>&amp;c.</hi> When contrary to their conſtitution, they per<g ref="char:EOLhyphen"/>vert Juſtice, and become a terrour to good workes; and juſtify the wicked in their evil: ſuch tyrants are not only <hi>abomination to the Lord,</hi> but by the te<g ref="char:EOLhyphen"/>ſtimony of the Goſpel, they doe forfeit their au<g ref="char:EOLhyphen"/>thority alſo: And in this very caſe the Apoſtle <hi>Paul</hi> calleth <hi>Ananias a whited wall,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 23.3, 4, 5.</note> not High Prieſt nor Ruler (and gives the reaſon) <hi>for ſitteſt thou to judge me after the Law, and commandeſt me to be ſmitten con<g ref="char:EOLhyphen"/>trary to the Law:</hi> affirming, that he knew not that he was the high Prieſt (<hi>viz.</hi> becauſe he had forfeited his calling, and the Apoſtle ſpake truth) ſaying, <hi>It is written thou ſhalt not ſpeak evil of the Ruler of my People:</hi> Therefore what Ruler ſo ever wilfully and publikely perverts the Law, introducing an arbitrary, tyrannicall and un<g ref="char:EOLhyphen"/>juſt cauſe, acting againſt the publicke good and ſafety, to the ruine of the People, loſeth his power, and ceaſeth to be Ruler, and ought to be declared &amp; proceeded againſt for ſuch a one. For doubleſſe the Apoſtles practice, and the Scripture is a good rule to walk by; <hi>For all Scripture is given by inſpiration of God; and is profitable for Doctrine, for reproofe, for correction, for inſtruction in righteouſneſſe.</hi> 2 <hi>Tim.</hi> 3.6.</p>
+            <p n="2">2. Whereas the King, not regarding the publike good and ſafe<g ref="char:EOLhyphen"/>ty of the People, did introduce an arbitrary and tyrannicall courſe; and indeavoured, with an high hand, by force of armes
+<pb n="2" facs="tcp:164870:3"/>
+to ſubvert <hi>Salus populi,</hi> and the deſtruction of the Kingdome; ſet<g ref="char:EOLhyphen"/>ting up his Standard, and waging an open war upon the Parlia<g ref="char:EOLhyphen"/>ment, and againſt all his good and loyall Subjects; perſiſting in full oppoſition to the Parliaments humble ſuits and Declarations made unto him,<note place="margin">Parl. Decl. <hi>20</hi> May, <hi>1642.</hi>
+               </note> ſhewing that whenſoever the King makes warre upon the Parliament, <hi>it is a breach of the truſt repoſed in him by his Peo<g ref="char:EOLhyphen"/>ple; contrary to his Oath; and tending to the diſſolution of his Government. That whoſoever ſhall ſerve and aſſiſt him in ſuch war, are Traytors by the fun<g ref="char:EOLhyphen"/>damentall Laws of this Kingdome,</hi>
+               <note place="margin">11 <hi>Rul.</hi> 2. 1 <hi>Hen.</hi> 4.</note> 
+               <hi>and have been ſo adjudged by two Acts of Parliament:</hi> Therefore we may ſee by the Parliaments Declarati<g ref="char:EOLhyphen"/>on, and the Kings practices compared, that the King is wholly elapſed in his ſplendor, dignity, honour, Kingly power, Majeſtie, and ſtands guilty of all the precious blood, rapines, and ruines of millions of People in theſe three Kingdomes, and hath diſobli<g ref="char:EOLhyphen"/>ged the Parliament, Army and People of their allegiance to him; and this may be a good reaſon why the right honorable the Lord <hi>Fairfax</hi> his Excellency, and this Army, took their Commiſſions onely for defence of the Parliament and Kingdome, and have done moſt righteouſly in ſo doing.</p>
+            <p>God ſealing to their endeavours, by his bleſſing, with extraor<g ref="char:EOLhyphen"/>dinary ſucceſſe, to the ſubduing of the King, with all his trayte<g ref="char:EOLhyphen"/>rous forces, and made the King their conquered, and captivated priſoner, who hath not minded, <hi>lex talionis,</hi> and that he that ru<g ref="char:EOLhyphen"/>leth over men, muſt be juſt, ruling in the fear of God; And that <hi>Adoni-bezek,</hi>
+               <note place="margin">2. <hi>Sam.</hi> 23.3</note> though a heathen King, acknowledged, ſaying, <hi>As I have done, ſo God hath requited me; and they brought him to Jeruſalem,</hi> Judg. 1.6, 7.</p>
+            <p n="3">3. The King perverting his duty, rejecting the feare of God, deſpiſing good councel, when ſeaſonably given him, by them of whom he ought to have received it, and wholly adheared to, and followed perverſe, fooliſh, ſlanderous, wicked, proud, haughty, deceitfull, murtherous mens councels; who endeavoured utterly to root out, extirpate, and extinguiſh the very name and being of all thoſe who were the faithfull of the Land, and endeavoured a thorow reformation of all wicked, unrighteous practices, in the King, his family, and Kingdomes; therefore the King with all his heathen adherents, took councel together, <hi>againſt the Lord, and a<g ref="char:EOLhyphen"/>gainst his anointed,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 2.</note> 
+               <hi>ſaying, let us break their bonds in ſunder, and caſt their cords from us;</hi> and making war upon them; <hi>they compaſſe the camp of the Saints about,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 20.9.</note> 
+               <hi>and the beloved City, Mount Zion;</hi> The habitation of
+<pb n="3" facs="tcp:164870:3"/>
+the Saints, where the Saints receive their Commiſſion from the great King, King of Kings, to have a two edged ſword in their hands, to execute judgement upon the Heathen, and puniſhment upon the people; <hi>To binde their Kings with chaines,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 149.</note> 
+               <hi>and their Nobles with fetters of iron;</hi> to execute upon them the judgement written, <hi>This honour have all the Saints.</hi> Hence then we ſee what a type of Holy Writ lies upon our Parliament and Army, to execute judgement upon the King and his wicked Adherents? although others have beene ſo exemplary before them? Alſo we may ſee how Mr <hi>Prynne</hi> doth play the Jeſuite by his moſt ſcandalous and falſe Pamphlets, endeavouring to ſubvert others to the diſturbance of the publique welfare and ſafety of the Kingdome; not minding that <hi>Salus po<g ref="char:EOLhyphen"/>puli</hi> is <hi>Suprema lex,</hi> &amp; that he may in due time juſtly ſuffer as an evil doer, according to his demerits, and be taught, <hi>That it is an abomi<g ref="char:EOLhyphen"/>nation to Kings to commit wickedneſſe, for the Throne is eſtabliſhed in righ<g ref="char:EOLhyphen"/>teouſneſſe,</hi> Prov. 16.12.</p>
+            <p n="4">4. And ſurely all the Kings falſe dealings pretending the King<g ref="char:EOLhyphen"/>domes welfare and ſafety, ſealed with moſt ſolemne abjurations and execrations againſt Himſelfe, his Throne and Poſterity, there<g ref="char:EOLhyphen"/>by to hide his iniquity from the eies of the people, the more eaſily to ſeduce them to beliefe, and to joine with him, was the higheſt cruelty and meanes that could be, to bring Gods heavy wrath up<g ref="char:EOLhyphen"/>on his owne head, and to remove the Throne from himſelfe and his poſterity; <hi>For the Lord will not hold him guiltleſſe that taketh his name in vaine: And mercy and truth preſerve the King. As a roaring Lyon,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 20:28: <hi>Cap.</hi> 28.15, <hi>&amp;c.</hi>
+               </note> 
+               <hi>and a ranging Beare, ſo is a wicked Ruler over his people.</hi> And are not ſuch deſtructive beaſts to be taken and deſtroyed? Againe, the Prince that wanteth underſtanding is a great Oppreſſor; tis much that Mr <hi>Prynne</hi> doth not remember this truth ever ſince the King ſuffer<g ref="char:EOLhyphen"/>ed his eares to be cut off. Againe, a man that doth violence to the bloud of any perſon, ſhall fly to the pit, let no man ſtay him. God makes no diſtinction of King or Beggar, he is no Reſpecter of perſons; But the ſoule that ſinneth it ſhall dye, no man ought to ſtay him from it: King <hi>Ahab</hi> and Queene <hi>Jezebeel</hi> muſt dye, be<g ref="char:EOLhyphen"/>cauſe <hi>Naboth</hi> is unjuſtly caſt off, and his Vineyard taken from him; Moreover the dogges muſt eate her fleſh, and licke up his bloud alſo, in that very plat of ground: It is very ſtrange that Mr <hi>Prynne</hi> cannot minde this truth, not knowing that the King did not one<g ref="char:EOLhyphen"/>ly ſhed much private or particular mens bloud, his owne being one, but hath publiquely bereaved multitudes of his moſt faithfull
+<pb n="4" facs="tcp:164870:4"/>
+people of their lives and eſtates for many yeares together: And can unrighteous warre extenuate his fault? Was not that the utter ruine of <hi>Hanun</hi> the King of <hi>Ammon,</hi> and his Kingdome? although what he acted was not againſt his owne Subjects; but <hi>Davids</hi> ſer<g ref="char:EOLhyphen"/>vants onely defacing them in ſhew, haire and habits? And can we thinke that God hath forgot to be juſt? <hi>Ahab</hi> and <hi>Jezebeel's</hi> ſinne was coloured over with as much piety as might be: But God will not be mocked, for whatſoever a man ſoweth, that ſhall he alſo reap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>:<note place="margin">
+                  <hi>Gal.</hi> 6. <hi>Pſal.</hi> 110.</note> God will ſtrike through Kings in the day of his wrath, and his inſtruments to execute the judgement, written, This honour have all the Saints, <hi>Pſal.</hi> 149.</p>
+            <p n="5">5. And is it not the Parliaments and Armies duty, now God hath delivered the King into their hands, and left him at their diſpoſe, to execute the judgement written upon him and his Adherents? And to ſecure themſelves and the people, who have alwaies ſtucke cloſe unto them in their greateſt diſtreſſes? Hath not the King beene a corrupt fountaine, poiſoning every ſtreame and rivolet he hath had acceſſe unto? And will he not doe ſo ſtill if he be not cut off? Hath not this husband adulterated his bed, and ſpent his ſtrength with ſtrangers, being fallen into a loathſome and poiſonous diſeaſe (worſe then King <hi>
+                  <g ref="char:V">Ʋ</g>riah's</hi> leproſie) and is ſick unto death? Hath not this Father murtherd a multitude of his beſt children, and would gladly kill all the reſt? Is it not then high time for the Kingdome to have a Bill of divorce? And alſo to have him brought to a juſt triall? That God and all the world may be witneſſes, they will give him no further opportunity or meanes, either by cohabitation or communion with them to de<g ref="char:EOLhyphen"/>ſtroy them? And doe not their ſpirits groane, and their backes bowe under the burden of their irrepairable loſſe?</p>
+            <p n="6">6. Alſo now God hath by his ſingular goodneſſe, through greateſt difficulties, given the faithfull of the Land ſome reſt and peace with their Lives, Eſtates, Lawes, Liberties and Priviledges, anciently and inherently in themſelves; but with much expence of bloud, loſſe of friends, and hardſhip regained by right of con<g ref="char:EOLhyphen"/>queſt: Is it not then their duty to keepe that which God hath re<g ref="char:EOLhyphen"/>poſſeſt them of? Did not <hi>Jephtha</hi> and <hi>Iſrael</hi> doe ſo with that which was the <hi>Amorites</hi> by originall right; they onely won it by the ſword, and did weare it, <hi>Judg.</hi> 11.19, 20. &amp;c.</p>
+            <p n="7">7. And doth not the eminency of the Kings perſon aggravate his ſinne and judgement? And hath it not made him ſucceſſes?
+<pb n="5" facs="tcp:164870:4"/>
+And was it not <hi>Coniah</hi> King of <hi>Judahs</hi> caſe? <hi>As I live, ſaith the Lord, though Coniah the ſon of Jehojakim King of Judah were the ſignet upon my right hand, yet will I pluck him thence. Write this man childleſſe</hi> (to wit in reſpect of kingly Government, elſe not) <hi>a man that ſhall not pro<g ref="char:EOLhyphen"/>ſper in his daies,</hi> Jer. 22.24, 30.</p>
+            <p n="8">8. Nor could the Army any longer defer to ſeclude from the Parliaments fellowſhip; all ſuch who undermined and diſappoin<g ref="char:EOLhyphen"/>ted their proceedings for the executing of Juſtice, &amp; ſetling of the Kingdome, and that thoſe who are faithfull might act freely for the Kingdome, in judgement and righteouſneſſe: <hi>Wiſdome is better then weapons of warre, but one ſinner deſtroieth much good.</hi> And is it not great wiſdome to execute judgement ſpeedily, and to preſerve the Kingdom, as much as may be from further war, by executing the judgement written.</p>
+            <p n="9">9. We know the Parliament have the King authoritatively with them, both for the making and executing of Law in its royal power, office and capacity, they have the Sword, the Scepter and the Seal, that they may <hi>doe juſtly, love mercy, and walk humbly with God,</hi> Mic. 6.8. And hath it not been in this ſence, the King cannot deceive, nor be deceived, never dies, can neither doe, nor take wrong? and is it not in this ſence wee have fought for the King and Parliament, when the King was in perſonal oppoſition unto both? And is it not moſt righteous and juſt, that his Perſon in this ſence ſhould be ſubject unto the power authoritative.</p>
+            <p n="10">10. And is it not evident that the Kings tranſgreſſion is tran<g ref="char:EOLhyphen"/>ſcendent unto <hi>Sauls?</hi> who did only ſpare Gods enemies, and yet his Kingdome was taken from him, and given unto <hi>David;</hi> but our King hath ſlain and deſtroied the Lords deareſt friends, his firſt borne, his peculiar treaſure and jewels, moſt dear and tender un<g ref="char:EOLhyphen"/>to him, <hi>He that toucheth them, toucheth the apple of his eye;</hi> theſe are his truly anointed ones, <hi>He hath reproved Kings for their ſakes, ſaying, Touch not mine anointed, nor doe my Prophets no harm,</hi> Pſal. 105.</p>
+            <p n="11">11. And many have added this evil u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all their ſins, to aske them ſuch a King to rule over them (as M. <hi>Prin</hi> and many others) one who is corrupted, ſtained and rejected of God, and not with<g ref="char:EOLhyphen"/>out blemiſh as <hi>Saul</hi> was, when deſired by the people, and yet God ſaith, that in ſo doing they had rejected him. And the people did very ſenſibly confeſſe the Lords juſtice, and wrath againſt them, for that they had added this evil (of asking them a King) unto all their ſins, intreating <hi>Samuel</hi> to pray unto the Lord his God for
+<pb n="6" facs="tcp:164870:5"/>
+them, that they die not. O that all the people in <hi>England,</hi> who are guilty in this kinde, were but as ſenſible of Gods wrath againſt them, and that they would intreat the Lords Prophets and anoin<g ref="char:EOLhyphen"/>ted ones, to pray unto the Lord their God for them; and that they did but know, that the Lord for this ſame purpoſe hath rai<g ref="char:EOLhyphen"/>ſed up the King, that he may ſhew his power in him. And that the name of the Lord may be declared throughout all the earth, And now let all the world take notice and know, that the Lord will not forſake his people for his great names ſake, becauſe it hath pleaſed him to make them his people, only <hi>fear the Lord and ſerve him in truth with all your heart: For conſider how great things he hath done for you,</hi> 1 Sam. 12. Had ever any Parliament and Army the like ex<g ref="char:EOLhyphen"/>perience of the Lords goodneſs unto them? And is it not that you may execute Juſtice, and that righteouſneſſe may run down like a mighty ſtream? And that the Lords people may be ſet free from all tyrants and oppreſſours hands, every one freely enjoying their Rights, Priviledges and Liberties, only be very couragious in do<g ref="char:EOLhyphen"/>ing the work of the Lord, and love him with all your hearts, for he hath promiſed, he <hi>will never leave you nor forſake you:</hi> So that you may boldly ſay, <hi>The Lord is my helper, and I will not fear what man ſhall doe unto me.</hi> But as all thoſe who will not walk in Gods way and counſel, according to the truth plainely and ſincerely ſet forth unto them, <hi>If ye ſhall ſtill doe wickedly ye ſhall be conſumed both yee and your King,</hi> 1 Sam. 12. ult.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
